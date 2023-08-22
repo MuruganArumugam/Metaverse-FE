@@ -1,0 +1,1 @@
+Front End Next Js application with Framer motion and Tailwind CSS.
